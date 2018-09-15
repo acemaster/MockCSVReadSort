@@ -1,0 +1,9 @@
+<?xml version = "1.0"?>
+<columns>
+    <column>
+        <name>name</name>
+        <sort>true</sort>
+        <order>ASC</order>
+        <priority>1</priority>
+    </column>
+</columns>
